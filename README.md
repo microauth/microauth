@@ -1,5 +1,5 @@
 # microauth
-> Collection of the authentication modules for zeit's micro.
+> Collection of authentication modules for zeit's micro.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/microauth/microauth/master/media/logo.png" alt="covr" />
@@ -8,3 +8,6 @@
 ## List of modules
 
  - [microauth-twitter](https://github.com/microauth/microauth-twitter)
+ - [microauth-github](https://github.com/microauth/microauth-github)
+ 
+ More providers, examples and documentation soon.
