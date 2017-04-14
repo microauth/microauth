@@ -9,5 +9,6 @@
 
  - [microauth-twitter](https://github.com/microauth/microauth-twitter)
  - [microauth-github](https://github.com/microauth/microauth-github)
+ - [microauth-facebook](https://github.com/microauth/microauth-facebook)
  
  More providers, examples and documentation soon.
