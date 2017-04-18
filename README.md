@@ -2,7 +2,7 @@
 > Collection of authentication modules for zeit's micro.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microauth/microauth/master/media/logo.png" alt="covr" />
+  <img src="https://github.com/microauth/microauth/blob/397dcd6f03d1620408a9607c552113208e1bee3c/media/logo.png" alt="covr" />
 </p>
 
 ## List of modules
