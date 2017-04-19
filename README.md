@@ -70,3 +70,6 @@ module.exports = compose(
 )(handler);
 
 ```
+
+Now go to `http://localhost:3000/auth/github` for github authentication or go to `http://localhost:3000/auth/slack` for slack authentication.
+
