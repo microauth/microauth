@@ -26,7 +26,7 @@ const microAuthGithub = require('microauth-github');
 
 const githubOptions = {
   clientId: 'client_id',
-  clientSecret: 'cleint_secret',
+  clientSecret: 'client_secret',
   callbackUrl: 'http://localhost:3000/auth/github/callback',
   path: '/auth/github',
   scope: 'user'
