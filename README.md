@@ -11,6 +11,7 @@
  - [microauth-github](https://github.com/microauth/microauth-github)
  - [microauth-facebook](https://github.com/microauth/microauth-facebook)
  - [microauth-slack](https://github.com/microauth/microauth-slack)
+ - [microauth-vkontakte](https://github.com/microauth/microauth-vkontakte)
  
  More providers, examples and documentation soon.
 
@@ -73,3 +74,7 @@ module.exports = compose(
 
 Now go to `http://localhost:3000/auth/github` for github authentication or go to `http://localhost:3000/auth/slack` for slack authentication.
 
+## Authors
+- [Dima Paloskin](https://github.com/dimapaloskin)
+- [Artem Karpovich](https://github.com/artemkarpovich)
+- [Cody Brunner](https://github.com/rockchalkwushock)
