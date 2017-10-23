@@ -12,7 +12,8 @@
  - [microauth-facebook](https://github.com/microauth/microauth-facebook)
  - [microauth-slack](https://github.com/microauth/microauth-slack)
  - [microauth-vkontakte](https://github.com/microauth/microauth-vkontakte)
- 
+ - [microauth-google](https://github.com/microauth/microauth-vkontakte)
+
  More providers, examples and documentation soon.
 
 ## Usage example
@@ -78,3 +79,4 @@ Now go to `http://localhost:3000/auth/github` for github authentication or go to
 - [Dima Paloskin](https://github.com/dimapaloskin)
 - [Artem Karpovich](https://github.com/artemkarpovich)
 - [Cody Brunner](https://github.com/rockchalkwushock)
+- [Rui Lima](https://github.com/rapzo)
