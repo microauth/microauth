@@ -12,7 +12,7 @@
  - [microauth-facebook](https://github.com/microauth/microauth-facebook)
  - [microauth-slack](https://github.com/microauth/microauth-slack)
  - [microauth-vkontakte](https://github.com/microauth/microauth-vkontakte)
- - [microauth-google](https://github.com/microauth/microauth-vkontakte)
+ - [microauth-google](https://github.com/microauth/microauth-google)
 
  More providers, examples and documentation soon.
 
